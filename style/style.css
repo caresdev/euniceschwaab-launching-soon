@@ -1,0 +1,60 @@
+/* Hero */
+#hero{
+    background-color: #241B23;
+    color: white;
+    height: 100vh;
+}
+
+.hero-img{
+    height: inherit;
+    object-fit: cover;
+    opacity: 0.40;
+}
+
+.hero-overlay{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+
+.hero-title{
+    font-family: "Cinzel Decorative", serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 6.5em !important;
+}
+
+@media screen  {
+    
+}
+
+
+.hero-subtitle{
+    font-family: "Livvic", sans-serif;
+    font-weight: 200;
+    font-style: normal;
+    font-size: 1.7em;
+}
+
+.profile-img{
+    width: 9em;
+    height: 9em;
+    max-width: 100%;
+    height: 100%;
+}
+
+.fa-solid{
+    margin-right: 0.3em;
+}
+
+.fa-brands{
+    font-size: 2.5em;
+    color: white;
+}
+
+a{
+    text-decoration: none;
+    color: inherit;
+}
