@@ -11,7 +11,7 @@
     opacity: 0.40;
 }
 
-.hero-overlay{
+.text-overlay{
     position: absolute;
     top: 50%;
     left: 50%;
@@ -26,10 +26,6 @@
     font-size: 6.5em !important;
 }
 
-@media screen  {
-    
-}
-
 
 .hero-subtitle{
     font-family: "Livvic", sans-serif;
@@ -37,6 +33,19 @@
     font-style: normal;
     font-size: 1.7em;
 }
+
+
+@media screen and (max-width: 768px){
+    .hero-title{
+        font-size: 3em !important;
+    }
+    
+    .hero-subtitle{
+        font-size: 1em;
+    }
+    
+}
+
 
 .profile-img{
     width: 9em;
