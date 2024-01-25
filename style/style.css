@@ -5,11 +5,12 @@
     height: 100vh;
 }
 
-.hero-img{
+.hero-video{
     height: inherit;
     object-fit: cover;
-    opacity: 0.40;
+    opacity: 0.4;
 }
+  
 
 .text-overlay{
     position: absolute;
