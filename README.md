@@ -15,7 +15,7 @@ This repository serves as a preview of what's to come. As the frontend developer
 While this repository is just a preview, the full portfolio is on its way. Keep an eye on this space for updates, as I prepare to unveil Eunice Shwaab's masterpieces to the world. Get ready to embark on a journey into the depths of her imagination, where darkness and creativity converge in a hypnotizing display of talent.
 
 
-For inquiries or more information, please contact [Eunice Shwaab](mailto:euniceshwaab@example.com).
+For inquiries or more information, please contact [Eunice Shwaab](mailto:euniceschwaab@gmail.com).
 
 
 
